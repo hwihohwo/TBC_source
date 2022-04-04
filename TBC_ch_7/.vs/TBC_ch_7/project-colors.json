@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d5331f7-05ca-40b2-a697-27ab2a242104": {
+      "ProjectGuid": "5d5331f7-05ca-40b2-a697-27ab2a242104",
+      "DisplayName": "7.1_분기문_if",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "48a6d7f1-f0b5-4f04-8ef6-53a0ba720f8f": {
+      "ProjectGuid": "48a6d7f1-f0b5-4f04-8ef6-53a0ba720f8f",
+      "DisplayName": "7.2_표준_입출력_함수들_getchar(),putchar()_예제",
+      "ColorIndex": 1
+    },
+    "dc91b19b-698d-4911-9f05-d2e6a6acdb15": {
+      "ProjectGuid": "dc91b19b-698d-4911-9f05-d2e6a6acdb15",
+      "DisplayName": "7.3_ctype.h_문자_함수들",
+      "ColorIndex": 2
+    },
+    "20c19685-947a-48b9-8589-fde0e4fa66b7": {
+      "ProjectGuid": "20c19685-947a-48b9-8589-fde0e4fa66b7",
+      "DisplayName": "7.4_다중_선택_else_if",
+      "ColorIndex": 3
+    },
+    "632cffba-6c73-43f3-94cf-8c2a6c5ab67d": {
+      "ProjectGuid": "632cffba-6c73-43f3-94cf-8c2a6c5ab67d",
+      "DisplayName": "7.5_else와_if_짝짓기",
+      "ColorIndex": 4
+    },
+    "f7563acd-6d34-4b98-8dc1-c1db539a97bf": {
+      "ProjectGuid": "f7563acd-6d34-4b98-8dc1-c1db539a97bf",
+      "DisplayName": "7.6_소수_판단_예제",
+      "ColorIndex": 5
+    },
+    "6252f70b-e0ac-4669-bb31-37df7dcbd426": {
+      "ProjectGuid": "6252f70b-e0ac-4669-bb31-37df7dcbd426",
+      "DisplayName": "7.7_논리_연산자_Logical_operators",
+      "ColorIndex": 6
+    },
+    "96fd5d72-8a37-471f-b915-a299a79f4508": {
+      "ProjectGuid": "96fd5d72-8a37-471f-b915-a299a79f4508",
+      "DisplayName": "7.8_단어_세기_예제",
+      "ColorIndex": 7
+    },
+    "a8c05154-6d80-476f-9d88-7669e39c5642": {
+      "ProjectGuid": "a8c05154-6d80-476f-9d88-7669e39c5642",
+      "DisplayName": "7.9_조건_연산자",
+      "ColorIndex": 8
+    },
+    "3a434d1a-fc63-4faa-a615-e7f85dbc0650": {
+      "ProjectGuid": "3a434d1a-fc63-4faa-a615-e7f85dbc0650",
+      "DisplayName": "7.10_루프_도우미_continue와 break",
+      "ColorIndex": 9
+    },
+    "67def043-3d76-44c2-8da6-2438a3aa8d04": {
+      "ProjectGuid": "67def043-3d76-44c2-8da6-2438a3aa8d04",
+      "DisplayName": "7.11_최대,_최소,_평균_구하기_예제",
+      "ColorIndex": 10
+    },
+    "0e3e429f-4b19-4898-9259-ed126ae2a99b": {
+      "ProjectGuid": "0e3e429f-4b19-4898-9259-ed126ae2a99b",
+      "DisplayName": "7.12_다중_선택_swich와_break",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

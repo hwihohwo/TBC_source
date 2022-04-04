@@ -1,0 +1,9 @@
+﻿  TBC variable.c
+C:\Users\82109\source\repos\TBC\TBC varible declaration\TBC variable.c(13,6): warning C4101: 'a': unreferenced local variable
+C:\Users\82109\source\repos\TBC\TBC varible declaration\TBC variable.c(4,6): warning C4101: 'genshin': unreferenced local variable
+C:\Users\82109\source\repos\TBC\TBC varible declaration\TBC variable.c(13,9): warning C4101: 'b': unreferenced local variable
+C:\Users\82109\source\repos\TBC\TBC varible declaration\TBC variable.c(3,6): warning C4101: 'num_apples': unreferenced local variable
+C:\Users\82109\source\repos\TBC\TBC varible declaration\TBC variable.c(13,12): warning C4101: 'c': unreferenced local variable
+C:\Users\82109\source\repos\TBC\TBC varible declaration\TBC variable.c(5,6): warning C4101: 'honkai_impact_3rd': unreferenced local variable
+C:\Users\82109\source\repos\TBC\TBC varible declaration\TBC variable.c(21,6): warning C4101: 'hwi': unreferenced local variable
+  TBC varible declaration.vcxproj -> C:\Users\82109\source\repos\TBC\x64\Debug\TBC variable declaration.exe

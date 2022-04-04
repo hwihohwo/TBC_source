@@ -1,0 +1,2 @@
+C:\Users\82109\source\repos\TBC_ch_3\x64\Debug\원에서달러변환.exe.lastcodeanalysissucceeded
+C:\Users\82109\source\repos\TBC_ch_3\원에서달러변환\x64\Debug\NativeCodeAnalysis.read.1.tlog

@@ -1,0 +1,4 @@
+﻿  9.2_함수의_프로토타입.c
+C:\Users\82109\source\repos\TBC ch_9\9.2_함수의_프로토타입\9.2_함수의_프로토타입.c(13,22): warning C4013: 'print_multiple_chars' undefined; assuming extern returning int
+9.2_함수의_프로토타입.obj : error LNK2019: unresolved external symbol print_multiple_chars referenced in function main
+C:\Users\82109\source\repos\TBC ch_9\x64\Debug\9.2_함수의_프로토타입.exe : fatal error LNK1120: 1 unresolved externals

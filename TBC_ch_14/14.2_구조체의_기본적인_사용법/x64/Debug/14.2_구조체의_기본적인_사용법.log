@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\82109\source\repos\TBC_ch_14\14.2_구조체의_기본적인_사용법\main.c(73,18): warning C4133: '=': incompatible types - from 'person *' to 'person2 *'
+C:\Users\82109\source\repos\TBC_ch_14\14.2_구조체의_기본적인_사용법\main.c(119,9): warning C4101: 'f4': unreferenced local variable
+C:\Users\82109\source\repos\TBC_ch_14\14.2_구조체의_기본적인_사용법\main.c(108,12): warning C4101: 'p3': unreferenced local variable
+C:\Users\82109\source\repos\TBC_ch_14\14.2_구조체의_기본적인_사용법\main.c(112,9): warning C4101: 'p4': unreferenced local variable
+C:\Users\82109\source\repos\TBC_ch_14\14.2_구조체의_기본적인_사용법\main.c(94,4): warning C4101: 'apple': unreferenced local variable
+  14.2_구조체의_기본적인_사용법.vcxproj -> C:\Users\82109\source\repos\TBC_ch_14\x64\Debug\14.2_구조체의_기본적인_사용법.exe

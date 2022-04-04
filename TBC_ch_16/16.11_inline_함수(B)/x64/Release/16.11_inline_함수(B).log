@@ -1,0 +1,7 @@
+﻿  main.c
+  Generating code
+  1 of 6 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  16.11_inline_함수(B).vcxproj -> C:\Users\82109\source\repos\TBC_ch_16\x64\Release\16.11_inline_함수(B).exe

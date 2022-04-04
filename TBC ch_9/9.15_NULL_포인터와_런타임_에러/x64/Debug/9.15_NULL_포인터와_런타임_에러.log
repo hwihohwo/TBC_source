@@ -1,0 +1,3 @@
+﻿  9.15_NULL_포인터와_런타임_에러.c
+C:\Users\82109\source\repos\TBC ch_9\9.15_NULL_포인터와_런타임_에러\9.15_NULL_포인터와_런타임_에러.c(9,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+  9.15_NULL_포인터와_런타임_에러.vcxproj -> C:\Users\82109\source\repos\TBC ch_9\x64\Debug\9.15_NULL_포인터와_런타임_에러.exe

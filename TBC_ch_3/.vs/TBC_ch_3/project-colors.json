@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88c2409a-10ef-49d6-817d-1761744f3cea": {
+      "ProjectGuid": "88c2409a-10ef-49d6-817d-1761744f3cea",
+      "DisplayName": "데이터와 자료형",
+      "ColorIndex": 0
+    },
+    "55afa793-9a92-490d-820c-32d05adea3c6": {
+      "ProjectGuid": "55afa793-9a92-490d-820c-32d05adea3c6",
+      "DisplayName": "간단한_입출력_프로그램",
+      "ColorIndex": 1
+    },
+    "636a44e1-8ee7-4f1b-8e5f-21e7ddc993da": {
+      "ProjectGuid": "636a44e1-8ee7-4f1b-8e5f-21e7ddc993da",
+      "DisplayName": "입출력프로그램",
+      "ColorIndex": 2
+    },
+    "01730394-b28e-4bf9-88a4-771cf7a65770": {
+      "ProjectGuid": "01730394-b28e-4bf9-88a4-771cf7a65770",
+      "DisplayName": "입출력_프로그램",
+      "ColorIndex": 3
+    },
+    "4292ec59-bb3a-451d-904d-e815cec505ff": {
+      "ProjectGuid": "4292ec59-bb3a-451d-904d-e815cec505ff",
+      "DisplayName": "원에서달러변환",
+      "ColorIndex": 4
+    },
+    "5112e808-761e-46b1-9bdc-6dc23c36bca8": {
+      "ProjectGuid": "5112e808-761e-46b1-9bdc-6dc23c36bca8",
+      "DisplayName": "정수의_오버플로우",
+      "ColorIndex": 5
+    },
+    "7046e4dd-e25c-4ea5-b099-5b094f10a762": {
+      "ProjectGuid": "7046e4dd-e25c-4ea5-b099-5b094f10a762",
+      "DisplayName": "다양한_정수형들",
+      "ColorIndex": 6
+    },
+    "fd1d332f-1955-469f-bc77-d6a06b685a9b": {
+      "ProjectGuid": "fd1d332f-1955-469f-bc77-d6a06b685a9b",
+      "DisplayName": "8진수와_16진수",
+      "ColorIndex": 7
+    },
+    "12ef397d-a0c9-483f-9396-392bc0f5cd89": {
+      "ProjectGuid": "12ef397d-a0c9-483f-9396-392bc0f5cd89",
+      "DisplayName": "고정_너비_정수",
+      "ColorIndex": 8
+    },
+    "baee777b-ab2f-4889-ab70-1fb325e7ed99": {
+      "ProjectGuid": "baee777b-ab2f-4889-ab70-1fb325e7ed99",
+      "DisplayName": "문자형",
+      "ColorIndex": 9
+    },
+    "ad2c9448-94e7-49e3-8886-6c8526dfce38": {
+      "ProjectGuid": "ad2c9448-94e7-49e3-8886-6c8526dfce38",
+      "DisplayName": "부동소수점형",
+      "ColorIndex": 10
+    },
+    "13c0004b-42b4-4e66-9f72-772afc75de91": {
+      "ProjectGuid": "13c0004b-42b4-4e66-9f72-772afc75de91",
+      "DisplayName": "부동소수점형의_한계",
+      "ColorIndex": 11
+    },
+    "57f9a022-ae8f-4e57-acbc-1097b301c00a": {
+      "ProjectGuid": "57f9a022-ae8f-4e57-acbc-1097b301c00a",
+      "DisplayName": "불리언형",
+      "ColorIndex": 12
+    },
+    "eb90859f-0345-4ccf-a43e-16f81a9e4189": {
+      "ProjectGuid": "eb90859f-0345-4ccf-a43e-16f81a9e4189",
+      "DisplayName": "복소수형",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

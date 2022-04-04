@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "34b9089b-9a96-4c19-9572-9dee2c2661fc": {
+      "ProjectGuid": "34b9089b-9a96-4c19-9572-9dee2c2661fc",
+      "DisplayName": "5.1_반복_루프와의_첫_만남",
+      "ColorIndex": 0
+    },
+    "2c3b3059-59b3-4bd6-be67-656964053dc8": {
+      "ProjectGuid": "2c3b3059-59b3-4bd6-be67-656964053dc8",
+      "DisplayName": "5.2_대입_연산자와_몇_가지_용어들",
+      "ColorIndex": 1
+    },
+    "fb9ebef4-2b44-450c-adf4-3587f3edc0b6": {
+      "ProjectGuid": "fb9ebef4-2b44-450c-adf4-3587f3edc0b6",
+      "DisplayName": "5.3_더하기,빼기,부호_연산자들",
+      "ColorIndex": 2
+    },
+    "7bc21794-bf9b-4c4a-bed4-8dac8dbe8b8d": {
+      "ProjectGuid": "7bc21794-bf9b-4c4a-bed4-8dac8dbe8b8d",
+      "DisplayName": "5.4_곱하기_연산자",
+      "ColorIndex": 3
+    },
+    "928eb23b-380c-4390-ac96-9a986f54ffea": {
+      "ProjectGuid": "928eb23b-380c-4390-ac96-9a986f54ffea",
+      "DisplayName": "5.5_나누기_연산자",
+      "ColorIndex": 4
+    },
+    "f10ce273-22f2-408f-bcee-a393945eb2fb": {
+      "ProjectGuid": "f10ce273-22f2-408f-bcee-a393945eb2fb",
+      "DisplayName": "5.6_연산자_우선순위와_표현식_트리",
+      "ColorIndex": 5
+    },
+    "3b6d09d1-ce5d-46e8-aede-89c564d79ba2": {
+      "ProjectGuid": "3b6d09d1-ce5d-46e8-aede-89c564d79ba2",
+      "DisplayName": "5.8_증가_감소_연산자",
+      "ColorIndex": 6
+    },
+    "4a0a0400-9a67-46d9-851b-a7791dfb8c3f": {
+      "ProjectGuid": "4a0a0400-9a67-46d9-851b-a7791dfb8c3f",
+      "DisplayName": "5.9_표현식과_문장",
+      "ColorIndex": 7
+    },
+    "c1bff43a-f245-4a3d-80a5-9fd22444840b": {
+      "ProjectGuid": "c1bff43a-f245-4a3d-80a5-9fd22444840b",
+      "DisplayName": "5.11_자료형_변환",
+      "ColorIndex": 8
+    },
+    "b6dae084-8f12-4dfd-a3d4-675fbbda59f4": {
+      "ProjectGuid": "b6dae084-8f12-4dfd-a3d4-675fbbda59f4",
+      "DisplayName": "5.12_함수의_인수와_매개변수",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

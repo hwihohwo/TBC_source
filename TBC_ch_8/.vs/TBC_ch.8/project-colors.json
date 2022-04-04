@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f7a03d1e-0e1e-4486-aeb8-0987102737f7": {
+      "ProjectGuid": "f7a03d1e-0e1e-4486-aeb8-0987102737f7",
+      "DisplayName": "8.1_입출력_버퍼",
+      "ColorIndex": 0
+    },
+    "81b89d09-8a67-4c86-b4b2-7ccbb9ee2232": {
+      "ProjectGuid": "81b89d09-8a67-4c86-b4b2-7ccbb9ee2232",
+      "DisplayName": "8.2_파일의_끝",
+      "ColorIndex": 1
+    },
+    "04aef274-2633-4e74-94d7-1f5094d8d3a7": {
+      "ProjectGuid": "04aef274-2633-4e74-94d7-1f5094d8d3a7",
+      "DisplayName": "8.3_입출력_방향_재지정",
+      "ColorIndex": 2
+    },
+    "da1fc3d3-890c-432e-9fc6-7a020a35106f": {
+      "ProjectGuid": "da1fc3d3-890c-432e-9fc6-7a020a35106f",
+      "DisplayName": "8.4_사용자_인터페이스는_친절하게",
+      "ColorIndex": 3
+    },
+    "740101d6-469a-4c04-9f8a-f08c19b639da": {
+      "ProjectGuid": "740101d6-469a-4c04-9f8a-f08c19b639da",
+      "DisplayName": "8.5_숫자와_문자를_섞어서_입력받기",
+      "ColorIndex": 4
+    },
+    "9b7856d4-5339-43a2-85e8-d6d3b5daf063": {
+      "ProjectGuid": "9b7856d4-5339-43a2-85e8-d6d3b5daf063",
+      "DisplayName": "8.6_입력_확인하기",
+      "ColorIndex": 5
+    },
+    "6d0d6513-e6fc-4093-a6f2-75260ef9abd2": {
+      "ProjectGuid": "6d0d6513-e6fc-4093-a6f2-75260ef9abd2",
+      "DisplayName": "8.7_입력_스트림과_숫자",
+      "ColorIndex": 6
+    },
+    "76b3afa6-c518-40b9-925b-9e19c4634054": {
+      "ProjectGuid": "76b3afa6-c518-40b9-925b-9e19c4634054",
+      "DisplayName": "8.8_메뉴_만들기_예제",
+      "ColorIndex": 7
+    },
+    "764f1c70-1052-4c51-bc4b-eca084138b03": {
+      "ProjectGuid": "764f1c70-1052-4c51-bc4b-eca084138b03",
+      "DisplayName": "8.9_텍스트_파일_읽기",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

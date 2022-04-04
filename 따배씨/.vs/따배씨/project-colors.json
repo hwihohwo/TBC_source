@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff3a96a8-5616-4d10-8698-6aa7bb298a26": {
+      "ProjectGuid": "ff3a96a8-5616-4d10-8698-6aa7bb298a26",
+      "DisplayName": "따배씨",
+      "ColorIndex": 0
+    },
+    "e9eb6aa9-6519-496f-b14f-ac8097c2becd": {
+      "ProjectGuid": "e9eb6aa9-6519-496f-b14f-ac8097c2becd",
+      "DisplayName": "따배씨2",
+      "ColorIndex": 1
+    },
+    "58482178-8335-4392-acbf-bb7f281a6bd5": {
+      "ProjectGuid": "58482178-8335-4392-acbf-bb7f281a6bd5",
+      "DisplayName": "따배씨3",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

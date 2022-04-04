@@ -1,0 +1,4 @@
+﻿  strlen()_함수.c
+C:\Users\82109\source\repos\TBC_ch_4\strlen()_함수\strlen()_함수.c(18,28): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\82109\source\repos\TBC_ch_4\strlen()_함수\strlen()_함수.c(18,48): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+  strlen()_함수.vcxproj -> C:\Users\82109\source\repos\TBC_ch_4\x64\Debug\strlen()_함수.exe

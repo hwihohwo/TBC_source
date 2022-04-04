@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0aa47880-8843-4d6d-8e3f-c16df8f0775b": {
+      "ProjectGuid": "0aa47880-8843-4d6d-8e3f-c16df8f0775b",
+      "DisplayName": "13.1_파일_입출력의_작동_원리",
+      "ColorIndex": 0
+    },
+    "6818fbe8-0161-4905-a7d7-2ae76dd059a9": {
+      "ProjectGuid": "6818fbe8-0161-4905-a7d7-2ae76dd059a9",
+      "DisplayName": "13.2_텍스트_파일_입출력_예제",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7af23bd6-6ca1-40a4-8484-f23d34a52a63": {
+      "ProjectGuid": "7af23bd6-6ca1-40a4-8484-f23d34a52a63",
+      "DisplayName": "13.3_텍스트_인코딩과_코드_페이지",
+      "ColorIndex": 2
+    },
+    "e09c2b60-2f86-4297-992a-555c274e6420": {
+      "ProjectGuid": "e09c2b60-2f86-4297-992a-555c274e6420",
+      "DisplayName": "13.4_텍스트_파일_입출력_함수들",
+      "ColorIndex": 3
+    },
+    "c35e3947-25fe-41a7-8ef7-affaa22702a3": {
+      "ProjectGuid": "c35e3947-25fe-41a7-8ef7-affaa22702a3",
+      "DisplayName": "13.5_바이너리_파일_입출력",
+      "ColorIndex": 4
+    },
+    "ae4d0952-109d-460c-93d4-38430dc318e9": {
+      "ProjectGuid": "ae4d0952-109d-460c-93d4-38430dc318e9",
+      "DisplayName": "13.6_파일_임의_접근",
+      "ColorIndex": 5
+    },
+    "517bb846-3324-4381-b688-8fc31d91e0f8": {
+      "ProjectGuid": "517bb846-3324-4381-b688-8fc31d91e0f8",
+      "DisplayName": "13.6_파일_임의_접근(Random_Access)(binary)",
+      "ColorIndex": 6
+    },
+    "a75f15a9-33d9-4474-8b97-d8650237ad41": {
+      "ProjectGuid": "a75f15a9-33d9-4474-8b97-d8650237ad41",
+      "DisplayName": "13.7_기타_입출력_함수들",
+      "ColorIndex": 7
+    },
+    "a02de1ec-4638-4420-8a20-826a4b452cf4": {
+      "ProjectGuid": "a02de1ec-4638-4420-8a20-826a4b452cf4",
+      "DisplayName": "13.8_텍스트_파일을_바이너리_처럼_읽어보기",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

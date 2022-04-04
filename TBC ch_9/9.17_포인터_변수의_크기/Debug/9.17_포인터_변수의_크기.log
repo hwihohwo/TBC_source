@@ -1,0 +1,3 @@
+﻿  9.17_포인터_변수의_크기.c
+C:\Users\82109\source\repos\TBC ch_9\9.17_포인터_변수의_크기\9.17_포인터_변수의_크기.c(18,2): warning C4098: 'main': 'void' function returning a value
+  9.17_포인터_변수의_크기.vcxproj -> C:\Users\82109\source\repos\TBC ch_9\Debug\9.17_포인터_변수의_크기.exe

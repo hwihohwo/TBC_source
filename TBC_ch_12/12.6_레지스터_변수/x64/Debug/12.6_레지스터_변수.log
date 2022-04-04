@@ -1,0 +1,2 @@
+﻿  12.6_레지스터_변수.c
+C:\Users\82109\source\repos\TBC_ch_12\12.6_레지스터_변수\12.6_레지스터_변수.c(14): error C2103: '&' on register variable

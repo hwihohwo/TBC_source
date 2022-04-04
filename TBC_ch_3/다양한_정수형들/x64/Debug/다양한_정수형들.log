@@ -1,0 +1,6 @@
+﻿  다양한_정수형들.c
+C:\Users\82109\source\repos\TBC_ch_3\다양한_정수형들\다양한_정수형들.c(22,9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type '__int64'
+C:\Users\82109\source\repos\TBC_ch_3\다양한_정수형들\다양한_정수형들.c(22,9): message : consider using '%lld' in the format string
+C:\Users\82109\source\repos\TBC_ch_3\다양한_정수형들\다양한_정수형들.c(22,9): message : consider using '%Id' in the format string
+C:\Users\82109\source\repos\TBC_ch_3\다양한_정수형들\다양한_정수형들.c(22,9): message : consider using '%I64d' in the format string
+  다양한_정수형들.vcxproj -> C:\Users\82109\source\repos\TBC_ch_3\x64\Debug\다양한_정수형들.exe

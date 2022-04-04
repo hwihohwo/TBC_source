@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\82109\source\repos\TBC_ch_14\14.24_복잡한_선언을_해석하는_요령\main.c(34,9): warning C4101: 'x': unreferenced local variable
+C:\Users\82109\source\repos\TBC_ch_14\14.24_복잡한_선언을_해석하는_요령\main.c(19,7): warning C4101: 'ap2': unreferenced local variable
+C:\Users\82109\source\repos\TBC_ch_14\14.24_복잡한_선언을_해석하는_요령\main.c(16,7): warning C4101: 'ap': unreferenced local variable
+C:\Users\82109\source\repos\TBC_ch_14\14.24_복잡한_선언을_해석하는_요령\main.c(65,8): warning C4101: 'x2': unreferenced local variable
+C:\Users\82109\source\repos\TBC_ch_14\14.24_복잡한_선언을_해석하는_요령\main.c(26,9): warning C4101: 'pf': unreferenced local variable
+  14.24_복잡한_선언을_해석하는_요령.vcxproj -> C:\Users\82109\source\repos\TBC_ch_14\x64\Debug\14.24_복잡한_선언을_해석하는_요령.exe

@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\82109\source\repos\TBC_ch_16\16.3_define_매크로\main.c(63,1): warning C4005: 'SIX': macro redefinition
+C:\Users\82109\source\repos\TBC_ch_16\16.3_define_매크로\main.c(60): message : see previous definition of 'SIX'
+  16.3_define_매크로.vcxproj -> C:\Users\82109\source\repos\TBC_ch_16\x64\Debug\16.3_define_매크로.exe

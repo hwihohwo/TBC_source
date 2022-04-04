@@ -1,0 +1,4 @@
+﻿  9.7_재귀_호출과_스택.c
+C:\Users\82109\source\repos\TBC ch_9\9.7_재귀_호출\9.7_재귀_호출과_스택.c(14,63): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\82109\source\repos\TBC ch_9\9.7_재귀_호출\9.7_재귀_호출과_스택.c(19,63): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+  9.7_재귀_호출.vcxproj -> C:\Users\82109\source\repos\TBC ch_9\x64\Debug\9.7_재귀_호출과_스택.exe

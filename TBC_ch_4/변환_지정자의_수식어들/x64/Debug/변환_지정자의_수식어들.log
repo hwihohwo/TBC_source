@@ -1,0 +1,7 @@
+﻿  변환_지정자의_수식어들.c
+C:\Users\82109\source\repos\TBC_ch_4\변환_지정자의_수식어들\변환_지정자의_수식어들.c(27,35): warning C4307: '+': signed integral constant overflow
+C:\Users\82109\source\repos\TBC_ch_4\변환_지정자의_수식어들\변환_지정자의_수식어들.c(27,48): warning C4307: '+': signed integral constant overflow
+C:\Users\82109\source\repos\TBC_ch_4\변환_지정자의_수식어들\변환_지정자의_수식어들.c(27,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 2 has type 'int'
+C:\Users\82109\source\repos\TBC_ch_4\변환_지정자의_수식어들\변환_지정자의_수식어들.c(27,9): message : consider using '%d' in the format string
+C:\Users\82109\source\repos\TBC_ch_4\변환_지정자의_수식어들\변환_지정자의_수식어들.c(27,9): message : consider using '%I32d' in the format string
+  변환_지정자의_수식어들.vcxproj -> C:\Users\82109\source\repos\TBC_ch_4\x64\Debug\변환_지정자의_수식어들.exe

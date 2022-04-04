@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1be9ab78-de21-44a9-adc8-b31629deda23": {
+      "ProjectGuid": "1be9ab78-de21-44a9-adc8-b31629deda23",
+      "DisplayName": "16.1_전처리기가_해주는_일들",
+      "ColorIndex": 0
+    },
+    "ddb0bf2b-5a8c-480e-88fb-d3e9a9048f9d": {
+      "ProjectGuid": "ddb0bf2b-5a8c-480e-88fb-d3e9a9048f9d",
+      "DisplayName": "16.3_define_매크로",
+      "ColorIndex": 1
+    },
+    "f949a39c-f762-4b92-910e-a378128345f0": {
+      "ProjectGuid": "f949a39c-f762-4b92-910e-a378128345f0",
+      "DisplayName": "16.4_함수_같은_매크로",
+      "ColorIndex": 2
+    },
+    "64210b5d-f804-4b43-ba6c-c490179f7eb5": {
+      "ProjectGuid": "64210b5d-f804-4b43-ba6c-c490179f7eb5",
+      "DisplayName": "16.4_함수_같은_매크로B",
+      "ColorIndex": 3
+    },
+    "c961b0dc-60f1-498e-8e57-fea4f1ce8c58": {
+      "ProjectGuid": "c961b0dc-60f1-498e-8e57-fea4f1ce8c58",
+      "DisplayName": "16.5_가변_인수_매크로",
+      "ColorIndex": 4
+    },
+    "e30ce6bd-a3b3-4b9d-8bbf-2b27d6fef7c5": {
+      "ProjectGuid": "e30ce6bd-a3b3-4b9d-8bbf-2b27d6fef7c5",
+      "DisplayName": "16.6_include와_헤더_파일",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "aa39dcaf-52c5-4b19-ba99-0cd1a514dd52": {
+      "ProjectGuid": "aa39dcaf-52c5-4b19-ba99-0cd1a514dd52",
+      "DisplayName": "16.7_조건에_따라_다르게_컴파일하기",
+      "ColorIndex": 6
+    },
+    "d013536e-f3de-412e-ab94-0593f82d7df7": {
+      "ProjectGuid": "d013536e-f3de-412e-ab94-0593f82d7df7",
+      "DisplayName": "16.7_조건에_따라_다르게_컴파일하기(Headerguards)",
+      "ColorIndex": 7
+    },
+    "8fb347a6-f0cf-4682-b63c-9c7d957fcf83": {
+      "ProjectGuid": "8fb347a6-f0cf-4682-b63c-9c7d957fcf83",
+      "DisplayName": "16.7_조건에_따라_다르게_컴파일",
+      "ColorIndex": 8
+    },
+    "f1f36328-c33d-453a-b6d9-eb4b9f957961": {
+      "ProjectGuid": "f1f36328-c33d-453a-b6d9-eb4b9f957961",
+      "DisplayName": "16.7_조건에_따라_다르게_컴파일D",
+      "ColorIndex": 9
+    },
+    "650bb484-ac88-4e76-a82e-945574056d44": {
+      "ProjectGuid": "650bb484-ac88-4e76-a82e-945574056d44",
+      "DisplayName": "16.7_조건에_따라_다르게_컴파일E",
+      "ColorIndex": 10
+    },
+    "275636ae-aade-4d4c-96bd-c494b55a7e91": {
+      "ProjectGuid": "275636ae-aade-4d4c-96bd-c494b55a7e91",
+      "DisplayName": "16.8_미리_정의된_매크로들, line, error",
+      "ColorIndex": 11
+    },
+    "a308851b-d745-4abe-b35c-39ed6ce4592f": {
+      "ProjectGuid": "a308851b-d745-4abe-b35c-39ed6ce4592f",
+      "DisplayName": "16.9_pragma_지시자",
+      "ColorIndex": 12
+    },
+    "849995a6-2354-4063-8ea1-1a2fd06e7759": {
+      "ProjectGuid": "849995a6-2354-4063-8ea1-1a2fd06e7759",
+      "DisplayName": "16.10_ _Generic_표현식",
+      "ColorIndex": 13
+    },
+    "41003313-f05e-460f-b021-bdc2fddf8bbb": {
+      "ProjectGuid": "41003313-f05e-460f-b021-bdc2fddf8bbb",
+      "DisplayName": "16.11_inline_함수",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

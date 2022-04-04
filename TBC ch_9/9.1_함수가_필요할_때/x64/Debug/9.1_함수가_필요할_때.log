@@ -1,0 +1,3 @@
+﻿  9.1_함수가_필요할_때.c
+C:\Users\82109\source\repos\TBC ch_9\9.1_함수가_필요할_때\9.1_함수가_필요할_때.c(42,6): error C2084: function 'void print_multiple_chars(char,int,bool)' already has a body
+C:\Users\82109\source\repos\TBC ch_9\9.1_함수가_필요할_때\9.1_함수가_필요할_때.c(25): message : see previous definition of 'print_multiple_chars'

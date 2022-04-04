@@ -1,0 +1,15 @@
+﻿  main.c
+C:\Users\82109\source\repos\TBC_ch_17(자료구조)\17.9_스택_자료구조\main.c(11,34): error C2039: 'key': is not a member of 'element'
+C:\Users\82109\source\repos\TBC_ch_17(자료구조)\17.9_스택_자료구조\element.h(14): message : see declaration of 'element'
+C:\Users\82109\source\repos\TBC_ch_17(자료구조)\17.9_스택_자료구조\main.c(11,11): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\82109\source\repos\TBC_ch_17(자료구조)\17.9_스택_자료구조\main.c(11,11): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\82109\source\repos\TBC_ch_17(자료구조)\17.9_스택_자료구조\main.c(11,11): message : the missing variadic argument 1 is required by format string '%d'
+C:\Users\82109\source\repos\TBC_ch_17(자료구조)\17.9_스택_자료구조\main.c(18,14): error C2039: 'key': is not a member of 'element'
+C:\Users\82109\source\repos\TBC_ch_17(자료구조)\17.9_스택_자료구조\element.h(14): message : see declaration of 'element'
+C:\Users\82109\source\repos\TBC_ch_17(자료구조)\17.9_스택_자료구조\main.c(49,39): error C2039: 'key': is not a member of 'element'
+C:\Users\82109\source\repos\TBC_ch_17(자료구조)\17.9_스택_자료구조\element.h(14): message : see declaration of 'element'
+C:\Users\82109\source\repos\TBC_ch_17(자료구조)\17.9_스택_자료구조\main.c(49,10): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\82109\source\repos\TBC_ch_17(자료구조)\17.9_스택_자료구조\main.c(49,10): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\82109\source\repos\TBC_ch_17(자료구조)\17.9_스택_자료구조\main.c(49,10): message : the missing variadic argument 1 is required by format string '%d'
+  stack.c
+  Generating Code...

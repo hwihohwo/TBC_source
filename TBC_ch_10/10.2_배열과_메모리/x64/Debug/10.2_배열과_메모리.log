@@ -1,0 +1,7 @@
+﻿  10.2_배열의_기본적인_사용방법.c
+C:\Users\82109\source\repos\TBC_ch_10\10.2_배열과_메모리\10.2_배열의_기본적인_사용방법.c(70,6): warning C4101: 'arr1': unreferenced local variable
+C:\Users\82109\source\repos\TBC_ch_10\10.2_배열과_메모리\10.2_배열의_기본적인_사용방법.c(77,8): warning C4101: 'arr8': unreferenced local variable
+C:\Users\82109\source\repos\TBC_ch_10\10.2_배열과_메모리\10.2_배열의_기본적인_사용방법.c(71,9): warning C4101: 'arr2': unreferenced local variable
+C:\Users\82109\source\repos\TBC_ch_10\10.2_배열과_메모리\10.2_배열의_기본적인_사용방법.c(73,8): warning C4101: 'arr4': unreferenced local variable
+C:\Users\82109\source\repos\TBC_ch_10\10.2_배열과_메모리\10.2_배열의_기본적인_사용방법.c(72,8): warning C4101: 'arr3': unreferenced local variable
+  10.2_배열과_메모리.vcxproj -> C:\Users\82109\source\repos\TBC_ch_10\x64\Debug\10.2_배열의_기본적인_사용방법.exe

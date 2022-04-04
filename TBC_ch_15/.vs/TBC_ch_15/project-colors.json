@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8782b68d-33d6-4faf-aa23-8e576b55e43c": {
+      "ProjectGuid": "8782b68d-33d6-4faf-aa23-8e576b55e43c",
+      "DisplayName": "15.1_비트단위_논리_연산자",
+      "ColorIndex": 0
+    },
+    "bc3b7b5d-98dd-47e7-b93c-04afd75d34e6": {
+      "ProjectGuid": "bc3b7b5d-98dd-47e7-b93c-04afd75d34e6",
+      "DisplayName": "15.2_이진수를_십진수로_바꾸기_연습문제",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "416853bb-4219-4c27-beca-53a16dce820a": {
+      "ProjectGuid": "416853bb-4219-4c27-beca-53a16dce820a",
+      "DisplayName": "15.3_ampersand를_이용해서_십진수를_이진수로_바꾸기_연습문제",
+      "ColorIndex": 2
+    },
+    "e32f71e3-aefc-48b6-91aa-ff60e16e89dd": {
+      "ProjectGuid": "e32f71e3-aefc-48b6-91aa-ff60e16e89dd",
+      "DisplayName": "15.4_비트단위_논리_연산자_확인해보기",
+      "ColorIndex": 3
+    },
+    "321afb0c-295c-48c6-ad28-a239b1ba73cb": {
+      "ProjectGuid": "321afb0c-295c-48c6-ad28-a239b1ba73cb",
+      "DisplayName": "15.5_2의_보수_표현법_확인해보기",
+      "ColorIndex": 4
+    },
+    "8fe4463b-d005-4181-a396-77d5e6240763": {
+      "ProjectGuid": "8fe4463b-d005-4181-a396-77d5e6240763",
+      "DisplayName": "15.6_비트단위_쉬프트_연산자",
+      "ColorIndex": 5
+    },
+    "3734b8f9-57fb-4d33-aa60-f59b9dd21b5f": {
+      "ProjectGuid": "3734b8f9-57fb-4d33-aa60-f59b9dd21b5f",
+      "DisplayName": "15.7_비트단위_연산자의_다양한_사용법",
+      "ColorIndex": 6
+    },
+    "2dd8cbc0-61bf-4e4f-901c-5ca8fbac212e": {
+      "ProjectGuid": "2dd8cbc0-61bf-4e4f-901c-5ca8fbac212e",
+      "DisplayName": "15.8_RGBA_색상_비트_마스크_연습문제",
+      "ColorIndex": 7
+    },
+    "684a50df-9f52-4262-ad15-dad2a7e31a7e": {
+      "ProjectGuid": "684a50df-9f52-4262-ad15-dad2a7e31a7e",
+      "DisplayName": "15.9_구조체_안의_비트_필드",
+      "ColorIndex": 8
+    },
+    "97e1f1e6-d7d0-4493-8f6d-71ba338f5880": {
+      "ProjectGuid": "97e1f1e6-d7d0-4493-8f6d-71ba338f5880",
+      "DisplayName": "15.11_비트필드의_패딩",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

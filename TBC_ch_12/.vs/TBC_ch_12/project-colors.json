@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4818b163-e996-4d20-b088-203b45949319": {
+      "ProjectGuid": "4818b163-e996-4d20-b088-203b45949319",
+      "DisplayName": "12.1_메모리_레이아웃_훑어보기",
+      "ColorIndex": 0
+    },
+    "eec34eda-3664-4827-b06a-375a054457c1": {
+      "ProjectGuid": "eec34eda-3664-4827-b06a-375a054457c1",
+      "DisplayName": "12.2_객체와_식별자, lvalue와_rvalue",
+      "ColorIndex": 1
+    },
+    "1df58b12-3a81-4523-aa51-98138ffcd3d0": {
+      "ProjectGuid": "1df58b12-3a81-4523-aa51-98138ffcd3d0",
+      "DisplayName": "12.3_변수의_영역(scope)과_연결_상태(Linkage),_객체의_지속_기간(Duration)",
+      "ColorIndex": 2
+    },
+    "32a0c347-4994-4af9-b233-8e90e270b01d": {
+      "ProjectGuid": "32a0c347-4994-4af9-b233-8e90e270b01d",
+      "DisplayName": "12.3_Linkage",
+      "ColorIndex": 3
+    },
+    "bc6f9aad-1b37-4d2c-8d61-54922fc96e43": {
+      "ProjectGuid": "bc6f9aad-1b37-4d2c-8d61-54922fc96e43",
+      "DisplayName": "12.3_Duration",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ede53c54-1098-4c33-8d2e-b1f655a538f0": {
+      "ProjectGuid": "ede53c54-1098-4c33-8d2e-b1f655a538f0",
+      "DisplayName": "12.3_Scope",
+      "ColorIndex": 5
+    },
+    "98312537-8cca-4a91-8fef-36d8011cb683": {
+      "ProjectGuid": "98312537-8cca-4a91-8fef-36d8011cb683",
+      "DisplayName": "12.4_저장_공간의_다섯_가지_분류",
+      "ColorIndex": 6
+    },
+    "cc9c79be-85d7-45bb-bc98-72b39ec0fa22": {
+      "ProjectGuid": "cc9c79be-85d7-45bb-bc98-72b39ec0fa22",
+      "DisplayName": "12.5_자동_변수",
+      "ColorIndex": 7
+    },
+    "2f10a968-84e8-4558-a792-6ac8c7ba87ad": {
+      "ProjectGuid": "2f10a968-84e8-4558-a792-6ac8c7ba87ad",
+      "DisplayName": "12.6_레지스터_변수",
+      "ColorIndex": 8
+    },
+    "64307fc6-3f2a-4c68-9691-e2c9341e67a3": {
+      "ProjectGuid": "64307fc6-3f2a-4c68-9691-e2c9341e67a3",
+      "DisplayName": "12.7_블록_영역의_정적_변수",
+      "ColorIndex": 9
+    },
+    "e62ae54d-ae7d-4322-9b2d-26c76befc1a0": {
+      "ProjectGuid": "e62ae54d-ae7d-4322-9b2d-26c76befc1a0",
+      "DisplayName": "12.8_정적_변수의_외부_연결_external_linkage",
+      "ColorIndex": 10
+    },
+    "0863be2d-dd06-452c-8670-aca26a60f68d": {
+      "ProjectGuid": "0863be2d-dd06-452c-8670-aca26a60f68d",
+      "DisplayName": "12.9_정적_변수의_내부_연결_internal_linkage",
+      "ColorIndex": 11
+    },
+    "737f5f74-4b9c-4834-98c3-46dc408870e8": {
+      "ProjectGuid": "737f5f74-4b9c-4834-98c3-46dc408870e8",
+      "DisplayName": "12.11_함수의_저장_공간_분류",
+      "ColorIndex": 12
+    },
+    "1e243f52-f885-4e37-87fc-2c0c9e280d92": {
+      "ProjectGuid": "1e243f52-f885-4e37-87fc-2c0c9e280d92",
+      "DisplayName": "12.12_난수_생성기_모듈_만들기_예제",
+      "ColorIndex": 13
+    },
+    "ab159628-3e81-42fe-826d-32ed21f224fa": {
+      "ProjectGuid": "ab159628-3e81-42fe-826d-32ed21f224fa",
+      "DisplayName": "12.12_난수_생성기_모듈_예제A",
+      "ColorIndex": 14
+    },
+    "58097851-1f22-4203-866e-80a5e5a241a4": {
+      "ProjectGuid": "58097851-1f22-4203-866e-80a5e5a241a4",
+      "DisplayName": "12.13_메모리_동적_할당",
+      "ColorIndex": 15
+    },
+    "06e7e9bb-bc81-4a2c-a0fd-7644a76d1f7f": {
+      "ProjectGuid": "06e7e9bb-bc81-4a2c-a0fd-7644a76d1f7f",
+      "DisplayName": "12.14_메모리_누수와_free()의_중요성",
+      "ColorIndex": 0
+    },
+    "f51ae453-a686-46ff-8b0a-f66bd21750f1": {
+      "ProjectGuid": "f51ae453-a686-46ff-8b0a-f66bd21750f1",
+      "DisplayName": "12.15_동적_할당_메모리를_배열처럼_사용하기",
+      "ColorIndex": 1
+    },
+    "80f60cae-7d62-40d1-aa73-73f896168dd6": {
+      "ProjectGuid": "80f60cae-7d62-40d1-aa73-73f896168dd6",
+      "DisplayName": "12.16_calloc(),_realloc()",
+      "ColorIndex": 2
+    },
+    "e2e0a80f-47b9-48a1-b35a-f2272405d4c7": {
+      "ProjectGuid": "e2e0a80f-47b9-48a1-b35a-f2272405d4c7",
+      "DisplayName": "12.17_동적_할당_메모리와_저장_공간_분류",
+      "ColorIndex": 3
+    },
+    "69aec62a-a9b2-4ca0-94ba-11bc761c3618": {
+      "ProjectGuid": "69aec62a-a9b2-4ca0-94ba-11bc761c3618",
+      "DisplayName": "12.18_자료형_한정자들_const,_volatile,_restrict",
+      "ColorIndex": 4
+    },
+    "812566a9-eb62-48f3-bad4-c068b64a22db": {
+      "ProjectGuid": "812566a9-eb62-48f3-bad4-c068b64a22db",
+      "DisplayName": "12.19_멀티_쓰레딩",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

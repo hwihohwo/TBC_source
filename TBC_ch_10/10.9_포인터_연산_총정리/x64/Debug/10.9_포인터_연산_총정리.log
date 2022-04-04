@@ -1,0 +1,3 @@
+﻿  10.9_포인터_연산_총정리.c
+C:\Users\82109\source\repos\TBC_ch_10\10.9_포인터_연산_총정리\10.9_포인터_연산_총정리.c(39,19): warning C4133: '==': incompatible types - from 'double *' to 'int *'
+  10.9_포인터_연산_총정리.vcxproj -> C:\Users\82109\source\repos\TBC_ch_10\x64\Debug\10.9_포인터_연산_총정리.exe

@@ -1,0 +1,33 @@
+﻿#include <stdio.h>
+
+int main()
+{
+	/*int a = 1;
+	int int_arr[10] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+	
+	printf("%i %i %i\n", int_arr[0], int_arr[1], int_arr[9]);*/
+	// 접근하고자 하는 index를 []로 입력. 
+	// 대부분의 언어에서는 배열의 index가 0부터 시작함
+
+	//printf("%i\n", int_arr[10000]);
+
+	char c = 'a';
+	char str1[10] = "Hello"; // null character위해 최대 9글자 저장가능.
+	char str2[10] = { 'H', 'i' };
+	
+	printf("%c\n", c);
+	printf("%s\n", str1);
+	//printf에서 null chracter(\0)를 만나서 출력을 중단해서 Hello만 출력됨
+	printf("%s\n", str2);
+
+	printf("%hhi %hhi %hhi %hhi %hhi\n",
+		str2[0], str2[1], str2[2], str2[3], str2[4]);
+
+	//char str3[10] = "Hello, World"; // array size is not enough
+	char str3[20] = "Hello, \0World";
+	printf("%s\n", str3);//null character 만나서 printf작동 중단됨.
+	printf("%c\n", str3[10]);
+	printf("%c\n", str3[11]);
+
+	return 0;
+}

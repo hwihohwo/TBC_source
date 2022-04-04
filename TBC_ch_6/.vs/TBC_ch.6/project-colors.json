@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "927df984-428e-4e20-ab6e-752d86820559": {
+      "ProjectGuid": "927df984-428e-4e20-ab6e-752d86820559",
+      "DisplayName": "6.1_while 반복_루프에서_scanf()의_반환값_사용하기",
+      "ColorIndex": 0
+    },
+    "f7cf1df8-0d0e-41af-9e33-d2f96b5d6f23": {
+      "ProjectGuid": "f7cf1df8-0d0e-41af-9e33-d2f96b5d6f23",
+      "DisplayName": "6.2_의사_코드_Pseudo_Code",
+      "ColorIndex": 1
+    },
+    "bc41cac2-5128-4e80-bb60-cd057fbfdd3f": {
+      "ProjectGuid": "bc41cac2-5128-4e80-bb60-cd057fbfdd3f",
+      "DisplayName": "6.4_관계_연산자",
+      "ColorIndex": 2
+    },
+    "b63a596f-538b-4d9e-9671-ebb58e99eea5": {
+      "ProjectGuid": "b63a596f-538b-4d9e-9671-ebb58e99eea5",
+      "DisplayName": "6.5_사실과_거짓",
+      "ColorIndex": 3
+    },
+    "dc9ad1cf-a205-4b73-8672-766e02468eb5": {
+      "ProjectGuid": "dc9ad1cf-a205-4b73-8672-766e02468eb5",
+      "DisplayName": "6.6_Bool_자료형",
+      "ColorIndex": 4
+    },
+    "9754e1a8-6134-443b-a987-f3374f2ea778": {
+      "ProjectGuid": "9754e1a8-6134-443b-a987-f3374f2ea778",
+      "DisplayName": "6.7_관계_연산자의_우선순위",
+      "ColorIndex": 5
+    },
+    "c656881f-80b5-46fa-82bf-1e139158c2db": {
+      "ProjectGuid": "c656881f-80b5-46fa-82bf-1e139158c2db",
+      "DisplayName": "6.8_for_루프_소개",
+      "ColorIndex": 6
+    },
+    "460398f4-d2a5-49a3-baec-47e6f93741a5": {
+      "ProjectGuid": "460398f4-d2a5-49a3-baec-47e6f93741a5",
+      "DisplayName": "6.9_ for는_유연해요",
+      "ColorIndex": 7
+    },
+    "e5ecffa5-392e-42bd-96f1-0bd8f72dbe22": {
+      "ProjectGuid": "e5ecffa5-392e-42bd-96f1-0bd8f72dbe22",
+      "DisplayName": "6.10_다양한_대입_연산자들_(그리고_어셈블리_코드_확인법)",
+      "ColorIndex": 8
+    },
+    "a29b1e9b-f94c-4b16-b256-c9e3b800e168": {
+      "ProjectGuid": "a29b1e9b-f94c-4b16-b256-c9e3b800e168",
+      "DisplayName": "6.11_콤마_연산자",
+      "ColorIndex": 9
+    },
+    "68c2fd2a-7c24-46c1-851d-cbcbbd49123d": {
+      "ProjectGuid": "68c2fd2a-7c24-46c1-851d-cbcbbd49123d",
+      "DisplayName": "6.12_제논의_역설_시뮬레이션_예제",
+      "ColorIndex": 10
+    },
+    "d57ff8e7-83af-4a12-9b18-5e2fa57ccd3d": {
+      "ProjectGuid": "d57ff8e7-83af-4a12-9b18-5e2fa57ccd3d",
+      "DisplayName": "6.13_탈출조건_루프_do_while",
+      "ColorIndex": 11
+    },
+    "65d07639-940a-4569-b3e0-28c947fb1460": {
+      "ProjectGuid": "65d07639-940a-4569-b3e0-28c947fb1460",
+      "DisplayName": "6.14_어떤_루프를_사용할까",
+      "ColorIndex": 12
+    },
+    "980885ed-7d73-43f3-a9e2-a9841f881c8f": {
+      "ProjectGuid": "980885ed-7d73-43f3-a9e2-a9841f881c8f",
+      "DisplayName": "6.15_중첩된_루프들",
+      "ColorIndex": 13
+    },
+    "349c8491-4586-4501-bc04-a3c40ec49a1b": {
+      "ProjectGuid": "349c8491-4586-4501-bc04-a3c40ec49a1b",
+      "DisplayName": "basic_C_template2",
+      "ColorIndex": 14
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "79e71986-9463-4b8f-a9f6-4e30fcd3c006": {
+      "ProjectGuid": "79e71986-9463-4b8f-a9f6-4e30fcd3c006",
+      "DisplayName": "6.16_배열과_런타임_에러",
+      "ColorIndex": 15
+    },
+    "126acb84-b496-4125-a3c9-d5e730dac15f": {
+      "ProjectGuid": "126acb84-b496-4125-a3c9-d5e730dac15f",
+      "DisplayName": "6.17_for_루프를_배열과_함께_사용하기",
+      "ColorIndex": 0
+    },
+    "c3338323-7340-4dba-a9c4-b24c80ff1645": {
+      "ProjectGuid": "c3338323-7340-4dba-a9c4-b24c80ff1645",
+      "DisplayName": "6.18_루프_안에서_함수의_반환값_사용하기",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

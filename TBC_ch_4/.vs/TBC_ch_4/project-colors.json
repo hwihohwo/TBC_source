@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1266e5b-087e-4073-a631-3455bf65fe35": {
+      "ProjectGuid": "c1266e5b-087e-4073-a631-3455bf65fe35",
+      "DisplayName": "문자열_입출력하기",
+      "ColorIndex": 0
+    },
+    "a8781112-c575-434f-b37c-0e532aaf2370": {
+      "ProjectGuid": "a8781112-c575-434f-b37c-0e532aaf2370",
+      "DisplayName": "sizeof연산자",
+      "ColorIndex": 1
+    },
+    "00b308ea-f7bf-403f-8d64-7f2ed0d51b97": {
+      "ProjectGuid": "00b308ea-f7bf-403f-8d64-7f2ed0d51b97",
+      "DisplayName": "문자열이_메모리에_저장되는_구조",
+      "ColorIndex": 2
+    },
+    "a6086187-44f4-47c7-8376-5f6196bc1c15": {
+      "ProjectGuid": "a6086187-44f4-47c7-8376-5f6196bc1c15",
+      "DisplayName": "strlen()_함수",
+      "ColorIndex": 3
+    },
+    "4c50595b-e07e-47d1-a8b8-f6c11e11c0a6": {
+      "ProjectGuid": "4c50595b-e07e-47d1-a8b8-f6c11e11c0a6",
+      "DisplayName": "기호적_상수와_전처리기",
+      "ColorIndex": 4
+    },
+    "f35abb6f-9cec-49db-bde4-02241193715c": {
+      "ProjectGuid": "f35abb6f-9cec-49db-bde4-02241193715c",
+      "DisplayName": "4.6_명백한_상수들",
+      "ColorIndex": 5
+    },
+    "e62dbbc1-d7f6-46aa-b4d0-84afba489a65": {
+      "ProjectGuid": "e62dbbc1-d7f6-46aa-b4d0-84afba489a65",
+      "DisplayName": "printf함수의_변환_지정자들",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a903a91a-3bd9-4330-a67b-3e369eeb6eed": {
+      "ProjectGuid": "a903a91a-3bd9-4330-a67b-3e369eeb6eed",
+      "DisplayName": "변환_지정자의_수식어들",
+      "ColorIndex": 7
+    },
+    "5235ef7c-1873-4190-9d9a-bb7ac6897877": {
+      "ProjectGuid": "5235ef7c-1873-4190-9d9a-bb7ac6897877",
+      "DisplayName": "4.9 printf()_함수가_인자들(arguments)을_해석하는_과정",
+      "ColorIndex": 8
+    },
+    "dc85acfb-b534-4a0e-bcd8-a9dd04f74012": {
+      "ProjectGuid": "dc85acfb-b534-4a0e-bcd8-a9dd04f74012",
+      "DisplayName": "4.10_ scanf()_함수의_사용법",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

@@ -1,0 +1,10 @@
+﻿  부동소수점형.c
+C:\Users\82109\source\repos\TBC_ch_3\부동소수점형\부동소수점형.c(6,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\82109\source\repos\TBC_ch_3\부동소수점형\부동소수점형.c(6,9): message : consider using '%zu' in the format string
+C:\Users\82109\source\repos\TBC_ch_3\부동소수점형\부동소수점형.c(7,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\82109\source\repos\TBC_ch_3\부동소수점형\부동소수점형.c(7,9): message : consider using '%zu' in the format string
+C:\Users\82109\source\repos\TBC_ch_3\부동소수점형\부동소수점형.c(8,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\82109\source\repos\TBC_ch_3\부동소수점형\부동소수점형.c(8,9): message : consider using '%zu' in the format string
+C:\Users\82109\source\repos\TBC_ch_3\부동소수점형\부동소수점형.c(34,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'double'
+C:\Users\82109\source\repos\TBC_ch_3\부동소수점형\부동소수점형.c(13,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  부동소수점형.vcxproj -> C:\Users\82109\source\repos\TBC_ch_3\x64\Debug\부동소수점형.exe

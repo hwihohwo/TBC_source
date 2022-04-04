@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5965a07d-770c-4921-b352-48dc10068dc7": {
+      "ProjectGuid": "5965a07d-770c-4921-b352-48dc10068dc7",
+      "DisplayName": "14.1_구조체가_필요한_이유",
+      "ColorIndex": 0
+    },
+    "0fb24027-eb5f-44dc-8fff-2a7518781884": {
+      "ProjectGuid": "0fb24027-eb5f-44dc-8fff-2a7518781884",
+      "DisplayName": "14.2_구조체의_기본적인_사용법",
+      "ColorIndex": 1
+    },
+    "c6ccc9e6-4c29-4cd7-8975-355832c5278a": {
+      "ProjectGuid": "c6ccc9e6-4c29-4cd7-8975-355832c5278a",
+      "DisplayName": "14.3_구조체의_메모리_할당",
+      "ColorIndex": 2
+    },
+    "2407cd27-00a2-45ae-8787-59c91011a1fc": {
+      "ProjectGuid": "2407cd27-00a2-45ae-8787-59c91011a1fc",
+      "DisplayName": "14.4_구조체의_배열_연습문제",
+      "ColorIndex": 3
+    },
+    "d5510ec1-0dbc-4207-93ff-2b64556e4730": {
+      "ProjectGuid": "d5510ec1-0dbc-4207-93ff-2b64556e4730",
+      "DisplayName": "14.5_구조체를_다른_구조체의_멤버로_사용하기",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b291a7c1-4ce0-4c76-9903-9c19be85da97": {
+      "ProjectGuid": "b291a7c1-4ce0-4c76-9903-9c19be85da97",
+      "DisplayName": "14.6_구조체와_포인터",
+      "ColorIndex": 5
+    },
+    "0821fa8d-281d-4f2e-b8c3-78b845e2bc6e": {
+      "ProjectGuid": "0821fa8d-281d-4f2e-b8c3-78b845e2bc6e",
+      "DisplayName": "14.6_구조체와_포인터_ex2",
+      "ColorIndex": 6
+    },
+    "9077db71-1a0a-45eb-94a0-2cb9042d5493": {
+      "ProjectGuid": "9077db71-1a0a-45eb-94a0-2cb9042d5493",
+      "DisplayName": "14.6_구조체와_포인터_ex3",
+      "ColorIndex": 7
+    },
+    "9c1681a5-8d7e-4682-aed1-6c2fb42e110a": {
+      "ProjectGuid": "9c1681a5-8d7e-4682-aed1-6c2fb42e110a",
+      "DisplayName": "14.7_구조체를_함수로_전달하는_방법",
+      "ColorIndex": 8
+    },
+    "32112972-9d0e-46d4-a77f-0307ca317163": {
+      "ProjectGuid": "32112972-9d0e-46d4-a77f-0307ca317163",
+      "DisplayName": "14.8_구조체와_함수_연습문제",
+      "ColorIndex": 9
+    },
+    "4448f494-3ae0-4324-b064-a97a00512846": {
+      "ProjectGuid": "4448f494-3ae0-4324-b064-a97a00512846",
+      "DisplayName": "14.8_구조체와_함수_연습문제2",
+      "ColorIndex": 10
+    },
+    "b6f7b92c-5ba8-4a4a-b493-dee7be679324": {
+      "ProjectGuid": "b6f7b92c-5ba8-4a4a-b493-dee7be679324",
+      "DisplayName": "14.9_구조체와_할당_메모리",
+      "ColorIndex": 11
+    },
+    "1f7c255b-ff3a-4e6e-b211-dd2f7a3df4fd": {
+      "ProjectGuid": "1f7c255b-ff3a-4e6e-b211-dd2f7a3df4fd",
+      "DisplayName": "14.10_복합_리터럴",
+      "ColorIndex": 12
+    },
+    "069e8d96-310a-4cea-9dd8-acd9059b64dd": {
+      "ProjectGuid": "069e8d96-310a-4cea-9dd8-acd9059b64dd",
+      "DisplayName": "14.11_신축성있는_배열_멤버",
+      "ColorIndex": 13
+    },
+    "1d1de68c-1879-41b7-9fd3-5c8fba81a0fb": {
+      "ProjectGuid": "1d1de68c-1879-41b7-9fd3-5c8fba81a0fb",
+      "DisplayName": "14.12_익명_구조체",
+      "ColorIndex": 14
+    },
+    "0e2eeef0-a395-4f47-a914-0521fea2ffb0": {
+      "ProjectGuid": "0e2eeef0-a395-4f47-a914-0521fea2ffb0",
+      "DisplayName": "14.13_구조체의_배열을_사용하는_함수",
+      "ColorIndex": 15
+    },
+    "ff301c87-1cb3-454d-9979-034f257be704": {
+      "ProjectGuid": "ff301c87-1cb3-454d-9979-034f257be704",
+      "DisplayName": "14.14_구조체_파일_입출력_연습문제",
+      "ColorIndex": 0
+    },
+    "0b5d8b97-4882-4cef-9286-87b3a44a1cd9": {
+      "ProjectGuid": "0b5d8b97-4882-4cef-9286-87b3a44a1cd9",
+      "DisplayName": "14.14_구조체_파일_입출력_연습문제(binary)",
+      "ColorIndex": 1
+    },
+    "e836ca41-b6a4-4970-9dbe-4c7f7c7dbaa5": {
+      "ProjectGuid": "e836ca41-b6a4-4970-9dbe-4c7f7c7dbaa5",
+      "DisplayName": "14.15_공용체의_원리",
+      "ColorIndex": 2
+    },
+    "3958bab6-ab03-49ad-a6b4-d54d2291561e": {
+      "ProjectGuid": "3958bab6-ab03-49ad-a6b4-d54d2291561e",
+      "DisplayName": "14.16_공용체와_구조체를_함께_사용하기",
+      "ColorIndex": 3
+    },
+    "28cc858d-a1c2-45b9-a51c-744222b4e9a1": {
+      "ProjectGuid": "28cc858d-a1c2-45b9-a51c-744222b4e9a1",
+      "DisplayName": "14.17_익명_공용체",
+      "ColorIndex": 4
+    },
+    "d3ab186c-855f-46fb-96a3-e82381d5e44b": {
+      "ProjectGuid": "d3ab186c-855f-46fb-96a3-e82381d5e44b",
+      "DisplayName": "14.18_열거형",
+      "ColorIndex": 5
+    },
+    "fc3bcaf4-7d3c-415e-9968-ee4b536be6af": {
+      "ProjectGuid": "fc3bcaf4-7d3c-415e-9968-ee4b536be6af",
+      "DisplayName": "14.19_열거형_연습문제",
+      "ColorIndex": 6
+    },
+    "3064d4b5-cf64-4a3b-adea-1e708232a36e": {
+      "ProjectGuid": "3064d4b5-cf64-4a3b-adea-1e708232a36e",
+      "DisplayName": "14.20_이름공간_공유하기",
+      "ColorIndex": 7
+    },
+    "eff9eac9-b0ae-486a-b68d-b5b3cb797b32": {
+      "ProjectGuid": "eff9eac9-b0ae-486a-b68d-b5b3cb797b32",
+      "DisplayName": "14.21_함수_포인터의_원리",
+      "ColorIndex": 8
+    },
+    "78821a08-2017-4ec0-96d8-b2d57f2d7e34": {
+      "ProjectGuid": "78821a08-2017-4ec0-96d8-b2d57f2d7e34",
+      "DisplayName": "14.22_함수_포인터의_사용_방법",
+      "ColorIndex": 9
+    },
+    "7e76315e-8b24-4cd5-9956-f8ff3f514ddc": {
+      "ProjectGuid": "7e76315e-8b24-4cd5-9956-f8ff3f514ddc",
+      "DisplayName": "14.23_자료형에게_별명을_붙여주는_typedef",
+      "ColorIndex": 10
+    },
+    "82561c81-69fc-4b64-93b2-744c57e8f5ae": {
+      "ProjectGuid": "82561c81-69fc-4b64-93b2-744c57e8f5ae",
+      "DisplayName": "14.24_복잡한_선언을_해석하는_요령",
+      "ColorIndex": 11
+    },
+    "676bae1e-4011-4ff5-a376-651a41f111f2": {
+      "ProjectGuid": "676bae1e-4011-4ff5-a376-651a41f111f2",
+      "DisplayName": "14.25_qsort_함수_포인터_연습문제",
+      "ColorIndex": 12
+    },
+    "dcdd1a4a-1330-47bc-a36b-41b67513422a": {
+      "ProjectGuid": "dcdd1a4a-1330-47bc-a36b-41b67513422a",
+      "DisplayName": "14.25_qsort_함수_포인터_연습문제_B",
+      "ColorIndex": 13
+    },
+    "4c600a79-1243-463f-bf89-2d4a578a7838": {
+      "ProjectGuid": "4c600a79-1243-463f-bf89-2d4a578a7838",
+      "DisplayName": "14.26_함수_포인터의_배열_연습문제",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

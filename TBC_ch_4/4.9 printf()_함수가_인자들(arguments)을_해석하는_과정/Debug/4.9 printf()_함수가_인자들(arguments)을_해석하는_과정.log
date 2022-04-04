@@ -1,0 +1,9 @@
+﻿  4.9 printf()_함수가_인자들(arguments)을_해석하는_과정.c
+C:\Users\82109\source\repos\TBC_ch_4\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\82109\source\repos\TBC_ch_4\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+C:\Users\82109\source\repos\TBC_ch_4\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정.c(13,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 1 has type 'double'
+C:\Users\82109\source\repos\TBC_ch_4\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정.c(13,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 2 has type 'double'
+C:\Users\82109\source\repos\TBC_ch_4\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정.c(14,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+C:\Users\82109\source\repos\TBC_ch_4\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정.c(15,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 2 has type 'double'
+C:\Users\82109\source\repos\TBC_ch_4\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정.c(5,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  4.9 printf()_함수가_인자들(arguments)을_해석하는_과정.vcxproj -> C:\Users\82109\source\repos\TBC_ch_4\Debug\4.9 printf()_함수가_인자들(arguments)을_해석하는_과정.exe

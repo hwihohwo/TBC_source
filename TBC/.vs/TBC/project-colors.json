@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee436c72-ce86-419d-88ae-7d1d8336d23c": {
+      "ProjectGuid": "ee436c72-ce86-419d-88ae-7d1d8336d23c",
+      "DisplayName": "TBC varible declaration",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "72b2b96f-650f-454a-ba2f-9fcb1c225bb5": {
+      "ProjectGuid": "72b2b96f-650f-454a-ba2f-9fcb1c225bb5",
+      "DisplayName": "basic_printf_usage",
+      "ColorIndex": 1
+    },
+    "cde2e0c2-8ffe-4074-9b0e-255409d3b6f9": {
+      "ProjectGuid": "cde2e0c2-8ffe-4074-9b0e-255409d3b6f9",
+      "DisplayName": "keywords_and_reserved_identifrers",
+      "ColorIndex": 2
+    },
+    "a9163a90-66d2-4371-859a-885941845f07": {
+      "ProjectGuid": "a9163a90-66d2-4371-859a-885941845f07",
+      "DisplayName": "Creating_function",
+      "ColorIndex": 3
+    },
+    "dbdf8081-858a-42ee-b89e-fe5ed411bd2f": {
+      "ProjectGuid": "dbdf8081-858a-42ee-b89e-fe5ed411bd2f",
+      "DisplayName": "creating_functions",
+      "ColorIndex": 4
+    },
+    "489eee4c-3c51-4d58-b606-3006f249c022": {
+      "ProjectGuid": "489eee4c-3c51-4d58-b606-3006f249c022",
+      "DisplayName": "using_debugger",
+      "ColorIndex": 5
+    },
+    "0ea8321f-7b29-4723-904e-ea8876b2b82c": {
+      "ProjectGuid": "0ea8321f-7b29-4723-904e-ea8876b2b82c",
+      "DisplayName": "문법오류와문맥오류",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

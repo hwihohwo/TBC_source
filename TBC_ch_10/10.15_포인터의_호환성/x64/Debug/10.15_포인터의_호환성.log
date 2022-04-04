@@ -1,0 +1,2 @@
+﻿  10.15_포인터의_호환성.c
+C:\Users\82109\source\repos\TBC_ch_10\10.15_포인터의_호환성\10.15_포인터의_호환성.c(16,7): error C2106: '=': left operand must be l-value

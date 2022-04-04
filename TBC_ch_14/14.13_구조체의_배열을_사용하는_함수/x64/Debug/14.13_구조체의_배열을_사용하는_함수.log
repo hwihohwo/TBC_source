@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\82109\source\repos\TBC_ch_14\14.13_구조체의_배열을_사용하는_함수\main.c(18,46): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\82109\source\repos\TBC_ch_14\14.13_구조체의_배열을_사용하는_함수\main.c(18,71): warning C4312: 'type cast': conversion from 'int' to 'book *' of greater size
+C:\Users\82109\source\repos\TBC_ch_14\14.13_구조체의_배열을_사용하는_함수\main.c(31,6): warning C4013: 'free' undefined; assuming extern returning int
+  14.13_구조체의_배열을_사용하는_함수.vcxproj -> C:\Users\82109\source\repos\TBC_ch_14\x64\Debug\14.13_구조체의_배열을_사용하는_함수.exe

@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b9ed27b-5c94-4c85-a2a8-a487a1e52af9": {
+      "ProjectGuid": "3b9ed27b-5c94-4c85-a2a8-a487a1e52af9",
+      "DisplayName": "11.1_문자열을_정의하는_방법들",
+      "ColorIndex": 0
+    },
+    "374b5a61-04c6-4968-b8a5-228e865c9d79": {
+      "ProjectGuid": "374b5a61-04c6-4968-b8a5-228e865c9d79",
+      "DisplayName": "11.2_메모리_레이아웃과_문자열",
+      "ColorIndex": 1
+    },
+    "75973cf6-b147-423a-93ac-5fd12bd078da": {
+      "ProjectGuid": "75973cf6-b147-423a-93ac-5fd12bd078da",
+      "DisplayName": "11.3_문자열의_배열",
+      "ColorIndex": 2
+    },
+    "db4ff9d2-ffcd-49d2-bbcd-dd5fb7972b08": {
+      "ProjectGuid": "db4ff9d2-ffcd-49d2-bbcd-dd5fb7972b08",
+      "DisplayName": "11.4_문자열을_입력받는_다양한_방법들",
+      "ColorIndex": 3
+    },
+    "1c89f083-1228-4aad-94bf-d688b47d052f": {
+      "ProjectGuid": "1c89f083-1228-4aad-94bf-d688b47d052f",
+      "DisplayName": "11.5_문자열을_출력하는_다양한_방법들",
+      "ColorIndex": 4
+    },
+    "a1a98a17-e5f6-40c4-bf11-e85f3e5c707b": {
+      "ProjectGuid": "a1a98a17-e5f6-40c4-bf11-e85f3e5c707b",
+      "DisplayName": "11.6_다양한_문자열_함수들",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6577c9dc-a7d3-48cc-b71c-818100a00e58": {
+      "ProjectGuid": "6577c9dc-a7d3-48cc-b71c-818100a00e58",
+      "DisplayName": "11.7_선택_정렬_문제_풀이",
+      "ColorIndex": 6
+    },
+    "c837a602-7698-4181-8681-1d98c2ec9f63": {
+      "ProjectGuid": "c837a602-7698-4181-8681-1d98c2ec9f63",
+      "DisplayName": "11.8_문자열의_포인터를_정렬하기",
+      "ColorIndex": 7
+    },
+    "8f7cf89c-48fa-4575-959a-b848ecd3b084": {
+      "ProjectGuid": "8f7cf89c-48fa-4575-959a-b848ecd3b084",
+      "DisplayName": "11.9_문자_함수를_문자열에_사용하기",
+      "ColorIndex": 8
+    },
+    "8714fba5-2871-4d97-b032-45e88f36e28b": {
+      "ProjectGuid": "8714fba5-2871-4d97-b032-45e88f36e28b",
+      "DisplayName": "11.10_명령줄_인수",
+      "ColorIndex": 9
+    },
+    "21fd6621-ed4d-4101-b2cb-0324ce5365b1": {
+      "ProjectGuid": "21fd6621-ed4d-4101-b2cb-0324ce5365b1",
+      "DisplayName": "11.11_문자열을_숫자로_바꾸는_방법들",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

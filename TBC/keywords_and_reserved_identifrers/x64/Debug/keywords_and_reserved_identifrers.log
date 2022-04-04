@@ -1,0 +1,3 @@
+﻿  keywords_and_reserved_identifrers.cpp
+C:\Users\82109\source\repos\TBC\keywords_and_reserved_identifrers\keywords_and_reserved_identifrers.cpp(11,6): error C2632: 'int' followed by 'bool' is illegal
+C:\Users\82109\source\repos\TBC\keywords_and_reserved_identifrers\keywords_and_reserved_identifrers.cpp(11,11): error C2513: 'int': no variable declared before '='

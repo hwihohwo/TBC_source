@@ -1,0 +1,3 @@
+﻿  main.c
+main.obj : error LNK2019: unresolved external symbol tool referenced in function main
+C:\Users\82109\source\repos\TBC_ch_12\x64\Debug\12.11_함수의_저장_공간_분류.exe : fatal error LNK1120: 1 unresolved externals

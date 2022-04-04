@@ -1,0 +1,8 @@
+﻿  5.11_자료형_변환.c
+C:\Users\82109\source\repos\TBC_ch.5\5.11_자료형_변환\5.11_자료형_변환.c(27,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\82109\source\repos\TBC_ch.5\5.11_자료형_변환\5.11_자료형_변환.c(35,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\82109\source\repos\TBC_ch.5\5.11_자료형_변환\5.11_자료형_변환.c(40,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\82109\source\repos\TBC_ch.5\5.11_자료형_변환\5.11_자료형_변환.c(43,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\82109\source\repos\TBC_ch.5\5.11_자료형_변환\5.11_자료형_변환.c(45,6): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\82109\source\repos\TBC_ch.5\5.11_자료형_변환\5.11_자료형_변환.c(47,6): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  5.11_자료형_변환.vcxproj -> C:\Users\82109\source\repos\TBC_ch.5\x64\Debug\5.11_자료형_변환.exe
